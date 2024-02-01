@@ -48,6 +48,7 @@ Intel Core i7-1065G7 CPU 1.30GHz, 1 CPU, 8 logical and 4 physical cores
 | StringFormat4Variables        | 100 | 387.59 ns | 24.477 ns | 72.170 ns | 375.04 ns |   17 | 0.2103 |     880 B |
 | StringInterpolation4Variables | 100 | 102.01 ns |  7.233 ns | 19.556 ns |  96.01 ns |   10 | 0.1969 |     824 B |
 
+![](/Strings/imgs/StringFormation.png)
 
 String interpolation will work faster approximately in each test case. (small differences with concatenation can be ignored)
 And ease of use do it the winner of this small contest.
