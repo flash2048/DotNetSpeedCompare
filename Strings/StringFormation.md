@@ -8,7 +8,7 @@ What function is more effective than combining several strings into one?
 
 It will compare strings of lengths 10, 50, and 100 characters using 2, 3, and 4 parameters.
 
-[Look at the code here.](/Strings/StringFormation.cs)
+[Look at the code here.](/Strings/code/StringFormation.cs)
 
 ```md
 BenchmarkDotNet v0.13.12, Windows 11 (10.0.22631.3085/23H2/2023Update/SunValley3)

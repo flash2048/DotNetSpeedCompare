@@ -3,3 +3,7 @@ It's very important to understand which function will work faster and what can a
 
 ## [Strings](/Strings/)
 * [String formation](/Strings/StringFormation.md) - **Concatenation** vs **Format** vs **Interpolation**
+
+## [Arrays](/Arrays/)
+* [ToArray vs ToList](/Arrays/ToListToArray.md) - 
+what function is more effective?
